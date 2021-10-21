@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gustavotalvares.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning JavaScript, nodeJS, and RESTful APIs and deepening my knowledge in HTML and CSS with bootstrap and SASS.
-- 💞️ I’m not looking to collaborate at the moment, since I need a little more study on git and experience on personal projects but I'm always up to help.
+- 🌱 I’m currently learning frontend tecnologies while deepening my knowledge on JavaScript.
+- 💞️ I’m not looking to collaborate at the moment, since I need more study on git and experience on personal projects but I'm always up to help.
 - 📫 You can reach me on my instagram @gus_trentini
 
 <!---
